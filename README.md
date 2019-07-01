@@ -1,5 +1,4 @@
-# Go 速查
+# GoGoGo
 
 
-## [1. 基本语法](./course/1.%20基本语法.md)
-## [2. 容器](./course/2.%20容器.md)
+## [Go 速查](./quick_search/README.md)
